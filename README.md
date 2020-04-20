@@ -1,0 +1,2 @@
+# Saturday-Morning-Cartoon-Programmer
+I want Saturday Morning cartoons again. I miss being lazy and having the cartoons play automatically while I eat sugary cerals. So I want to build a program that will take the shows that I have downloaded shows and schedule and play them and -maybe- andomizes them each time the appilaction starts up. Hoping to apply this to Plex, Netflix, Hulu, and DisneyPlus.
